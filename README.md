@@ -1,1 +1,3 @@
 # DataStructures
+This Project will help Java Developers understand about various Data Structures and Sorting Algorithms.
+Source Code for the Sorting algorithms will be uploaded soon...
